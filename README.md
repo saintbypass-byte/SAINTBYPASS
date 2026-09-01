@@ -1,8 +1,16 @@
 <div align="center">
 
+<img src="assets/cyber-devil-loop.gif" alt="Animated neon cyber-devil banner" width="100%" />
+
 # 𓆩 𝑺𝑨𝑰𝑵𝑻𝑩𝒀𝑷𝑨𝑺𝑺 𓆪🥷
 
-### Code with precision. Build with purpose. Move with stealth.
+### <span style="color:#ff1744">Code with precision.</span> <span style="color:#d500f9">Build with purpose.</span> <span style="color:#00e5ff">Move with stealth.</span>
+
+`╔══════════════════════════════════════════════════════╗`
+
+`║  ◈  CYBER DEVIL // HACKER MODE // SYSTEM ONLINE  ◈  ║`
+
+`╚══════════════════════════════════════════════════════╝`
 
 [![Profile](https://img.shields.io/badge/PROFILE-SAINTBYPASS-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saintbypass-byte)
 [![WhatsApp](https://img.shields.io/badge/WHATSAPP-CONNECT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/263714373922)
@@ -12,7 +20,9 @@
 
 ---
 
-## About the operator
+## ◈ About the operator
+
+<img src="assets/cyber-devil-banner.png" alt="Neon cyber-devil artwork" width="100%" />
 
 I am **SAINTBYPASS**, a programmer focused on building sharp, practical, and modern digital experiences. My work sits at the intersection of software engineering, automation, web technologies, API development, and security-minded problem solving.
 
@@ -20,7 +30,7 @@ This repository is my public command center: a compact showcase of the technolog
 
 > **Mission:** Turn complex ideas into fast, reliable, and useful software.
 
-## Core programming skills
+## ☠ Core programming skills
 
 | Area | What I build |
 |---|---|
@@ -31,7 +41,7 @@ This repository is my public command center: a compact showcase of the technolog
 | **Security-minded development** | Careful handling of permissions, inputs, secrets, and system boundaries. |
 | **Problem solving** | Practical debugging, rapid prototyping, refactoring, and performance-focused improvements. |
 
-## Technology toolkit
+## ⚡ Technology toolkit
 
 <div align="center">
 
@@ -48,27 +58,29 @@ This repository is my public command center: a compact showcase of the technolog
 
 </div>
 
-## Latest cool features
+## 🩸 Latest cool features
 
-### AI-assisted workflows
+> **Visual theme:** The virus symbols in this README are purely decorative cyberpunk motifs representing bugs, signals, and digital energy. No malicious code or payloads are included.
+
+### 🧠 AI-assisted workflows
 Design intelligent tools that can summarize, classify, generate, search, and automate useful actions while keeping the user experience clear and controllable.
 
-### Real-time experiences
+### 📡 Real-time experiences
 Build live dashboards, status views, event-driven interfaces, and responsive systems that keep information moving without unnecessary friction.
 
-### API-first architecture
+### 🔌 API-first architecture
 Create clean service boundaries that make products easier to extend, integrate, test, and maintain.
 
-### Secure-by-design foundations
+### 🛡️ Secure-by-design foundations
 Treat authentication, authorization, input validation, secret management, and safe defaults as part of the build—not as an afterthought.
 
-### Mobile-ready interfaces
+### 📱 Mobile-ready interfaces
 Shape interfaces that feel natural across phones, tablets, and desktop screens, with layouts that remain focused at every size.
 
-### Automation that saves time
+### ⚙️ Automation that saves time
 Connect tools and remove repetitive steps through dependable scripts, scheduled workflows, and practical developer utilities.
 
-## Engineering style
+## ⌁ Engineering style
 
 ```text
 Observe  →  Design  →  Build  →  Test  →  Harden  →  Ship
@@ -76,7 +88,7 @@ Observe  →  Design  →  Build  →  Test  →  Harden  →  Ship
 
 I value readable code, deliberate interfaces, fast feedback loops, useful documentation, and solutions that solve the real problem instead of adding unnecessary complexity.
 
-## Featured work
+## ◉ Featured work
 
 This space is reserved for selected projects, experiments, and tools. Each project should show not only what was built, but also the reasoning, trade-offs, and lessons behind it.
 
@@ -87,9 +99,15 @@ This space is reserved for selected projects, experiments, and tools. Each proje
 | **Automation systems** | Repeatable workflows for data, services, and everyday operations. |
 | **Experimental builds** | New ideas explored through working prototypes and focused iteration. |
 
-## Connect
+## ☣ Connect
 
 For programming, collaboration, project discussions, or technical conversations:
+
+<div align="center">
+
+`◈` `☠` `⚡` `⌁` `☣` `◉` `🧠` `🛡️` `🔌`
+
+</div>
 
 - **WhatsApp:** [+263 714 373 922](https://wa.me/263714373922)
 - **Telegram:** [@saintxor](https://t.me/saintxor)
